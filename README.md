@@ -2,6 +2,7 @@
 Just a test scenario.
 
 Two terminal windows:
+
 1.
 mvn j2cl:watch
 
